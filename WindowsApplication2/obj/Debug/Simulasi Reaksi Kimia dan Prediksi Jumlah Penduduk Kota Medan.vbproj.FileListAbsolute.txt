@@ -1,0 +1,19 @@
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.exe.config
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.exe.manifest
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.application
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.exe
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.pdb
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\10.xml
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\MetroFramework.dll
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\WindowsApplication2.FrmKimia.resources
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\WindowsApplication2.FrmPenduduk.resources
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\WindowsApplication2.Main_Form.resources
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\Simulasi Reaksi Kimia dan Prediksi Jumlah Penduduk Kota Medan.vbproj.GenerateResource.Cache
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\10.exe.manifest
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\10.application
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\10.exe
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\10.xml
+E:\ShareFolder\Google Drive\Bahan Kuliah\Semester VIII\Model dan Simulasi\TMP\Kimia & Penduduk\WindowsApplication2\obj\Debug\10.pdb
